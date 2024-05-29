@@ -2,7 +2,6 @@ import numpy as np
 import sys
 from math import factorial
 from itertools import permutations
-from sklearn.preprocessing import normalize
 
 def match_row(M1_row, M2):
     """
