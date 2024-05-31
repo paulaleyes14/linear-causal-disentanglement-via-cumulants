@@ -1,3 +1,6 @@
+# Citation:
+#         Joe Kileel and Joao M. Pereira. Subspace power method for symmetric tensor decomposition and generalized PCA. arXiv preprint arXiv:1912.04007, 2019.
+
 import numpy as np
 from scipy.linalg import lapack
 from helper_functions_spm import *
